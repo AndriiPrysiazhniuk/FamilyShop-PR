@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/css/main.e21d44a2.css",
-    "main.js": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/js/main.eb7ad84a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/spoon-2.jpg": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/media/spoon-2.c32bf1ac1f49fc567367.jpg",
-    "index.html": "/AndriiPrysiazhniuk/FamilyShop-PR.git/index.html",
-    "main.e21d44a2.css.map": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/css/main.e21d44a2.css.map",
-    "main.eb7ad84a.js.map": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/js/main.eb7ad84a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/AndriiPrysiazhniuk/FamilyShop-PR.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/FamilyShop-PR/static/css/main.e21d44a2.css",
+    "main.js": "/FamilyShop-PR/static/js/main.52469396.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FamilyShop-PR/static/js/787.28cb0dcd.chunk.js",
+    "static/media/spoon-2.jpg": "/FamilyShop-PR/static/media/spoon-2.c32bf1ac1f49fc567367.jpg",
+    "index.html": "/FamilyShop-PR/index.html",
+    "main.e21d44a2.css.map": "/FamilyShop-PR/static/css/main.e21d44a2.css.map",
+    "main.52469396.js.map": "/FamilyShop-PR/static/js/main.52469396.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FamilyShop-PR/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e21d44a2.css",
-    "static/js/main.eb7ad84a.js"
+    "static/js/main.52469396.js"
   ]
 }
